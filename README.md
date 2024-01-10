@@ -1,7 +1,7 @@
-# S-Courses (Training Support Systems)
+# Training Support Systems
 # About : 
    ### * Description : 
-   S-Courses (Training Support System) is a software project built to help institutions, students, students and teachers manage their teaching and learning. For each different user object, there will be different functions and activities. All users have their accounts secured with User Authentication. A common feature for all users is to be able to login, register, view personal information, change password and retrieve password. S-Course will help users have a good experience, quick access, diverse features to help users monitor, manage and edit quickly. This system support for the below types of user
+   Training Support System is a software project built to help institutions, students, students and teachers manage their teaching and learning. For each different user object, there will be different functions and activities. All users have their accounts secured with User Authentication. A common feature for all users is to be able to login, register, view personal information, change password and retrieve password. Training Support System will help users have a good experience, quick access, diverse features to help users monitor, manage and edit quickly. This system support for the below types of user
    - Guest: unregistered users
    - Trainee: register and/or be sent to participate in classes, courses, and learn lessons in the system
    - Trainer: manage students, plan class learning content, evaluate students learning process
@@ -10,7 +10,7 @@
    - Admin: full authority, acts as the system administrator
    ### * Role/Main Tasks : Member/Backend( Must complete all requirements assigned ( backend and fontend of requirement )  )
    ### * Languages programing, libraries and frameworks : 
-  - Java, JavaScript, Html, Css, Boostrap, Jquery, SweetAlert
+  - Java, Jsp, Servlet, JDBC, JavaScript, Html, Css, Boostrap, Jquery
   ### * Link Video Description :  
 # My features are assigned: 
 ## 1. Guest (Login)
