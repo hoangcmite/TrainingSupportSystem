@@ -1,0 +1,49 @@
+footer {
+    background-color: rgb(0, 19, 46);
+}
+#footer_top{
+    display: flex;
+    color: white;
+    font-size: 18px;
+    border-bottom: 1px solid lightgray;
+    justify-content: space-between;
+    padding: 10px;
+}
+#footer_top a{
+    text-decoration: none;
+    border-right: 1px solid lightgray;
+    font-size: 18px;
+    color: white;
+    padding: 5px;
+}
+#footer_top .right{
+    text-decoration: none;
+    border-right: 1px solid lightgray;
+    font-size: 18px;
+    color: white;
+    padding: 5px;
+}
+footer h1{
+    color: white;
+
+}
+.input-contact{
+    margin: 5px;
+}
+#footer_bot{
+    padding: 10px;
+}
+
+.siderbar{
+    background-color: lightgray;
+    height: 100vh;
+    padding: 10px;
+}
+.siderbar a{
+    display: block;
+    margin-left: 20%;
+    text-decoration: none;
+}
+.form_dashboard div{
+    margin: 10px;
+}
